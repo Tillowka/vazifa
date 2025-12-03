@@ -1,7 +1,10 @@
    body{
             background-color: black;
-            
+             margin: 0 auto;
         }
+div{
+   margin: 0 auto;
+}
         .div1{
             display: inline-block;
             margin: 5px;
@@ -50,4 +53,5 @@ div .div1 a:hover{
     background-color: blue;
     color: white;
 }
+
 
